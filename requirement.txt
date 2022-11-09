@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+aiofiles
+fastapi_chameleon
+python-dotenv
+sqlalchemy
+sqlmodel
+asyncpg
+httpx
+psycopg2
+gunicorn
+python-multipart
+# dev
+pytest
+requests
+pandas
+openpyxl
+cryptography==2.8
+python-jose[cryptography]
+passlib[bcrypt]
+websockets
+pyjwt==1.7.1
+passlib==1.7.2
+bcrypt==3.2.0
+mysql-connector-python
+pymysql
